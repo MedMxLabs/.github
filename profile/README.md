@@ -20,15 +20,6 @@ Backed by [Microsoft for Startups](https://www.microsoft.com/startups). Staging 
 - Contribute: https://github.com/MedMxLabs/MediScan/blob/main/CONTRIBUTING.md
 - Security: https://github.com/MedMxLabs/MediScan/blob/main/SECURITY.md
 
-### Cost — GitHub stays at $0
-
-| | |
-| --- | --- |
-| Org plan | **Free** |
-| Repos | **Public only** (no private repos) |
-| CI | Free `ubuntu-latest` on public PRs |
-| Azure deploys | **Manual** (`workflow_dispatch`) only |
-
 Details: [docs/COST.md](https://github.com/MedMxLabs/MediScan/blob/main/docs/COST.md).
 
 Not medical advice.
