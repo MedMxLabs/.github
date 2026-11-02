@@ -1,6 +1,6 @@
 <!-- medmx: org overview shown on https://github.com/MedMxLabs -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="MedMx Labs - Systems that learn" width="100%" />
+  <img src="./assets/banner.png" alt="MedMx Labs - Systems that learn" width="100%" />
 </p>
 
 <p align="center">
