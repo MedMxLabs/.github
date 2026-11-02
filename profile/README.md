@@ -1,71 +1,108 @@
-<!-- medmx: org overview shown on https://github.com/MedMxLabs -->
+<!-- medmx labs org profile -->
 <p align="center">
-  <img src="./assets/banner.png" alt="MedMx Labs - Systems that learn" width="100%" />
+  <img src="./assets/banner.png" alt="MedMx Labs terminal boot - Systems that learn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://medmx.in"><img src="https://img.shields.io/badge/site-medmx.in-13B39A?style=flat-square&labelColor=0B1210" alt="medmx.in" /></a>
-  <a href="mailto:support@medmx.in"><img src="https://img.shields.io/badge/mail-support%40medmx.in-5DBB46?style=flat-square&labelColor=0B1210" alt="support@medmx.in" /></a>
-  <img src="https://img.shields.io/badge/based_in-India-8FA39A?style=flat-square&labelColor=0B1210" alt="Based in India" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=13B39A&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=policy+%CF%80+improving+every+episode;observe+%E2%86%92+act+%E2%86%92+reward+%E2%86%92+improve;systems+that+learn." alt="typing: systems that learn" />
+</p>
+
+<p align="center">
+  <a href="https://medmx.in"><img src="https://img.shields.io/badge/%F0%9F%9A%80_site-medmx.in-13B39A?style=for-the-badge&labelColor=0B1210" alt="site" /></a>
+  <a href="mailto:support@medmx.in?subject=%5BMedMx%20Labs%5D%20Start%20a%20project"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_mail-support%40medmx.in-5DBB46?style=for-the-badge&labelColor=0B1210" alt="mail" /></a>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_based_in-India-8FA39A?style=for-the-badge&labelColor=0B1210" alt="India" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/medmx-mark.png" width="72" alt="MedMx mark" />
+</p>
+
+<h2 align="center">Applied AI &amp; reinforcement learning lab</h2>
+
+<p align="center">
+  We build systems that get better with every episode.<br/>
+  Policies. Agents. Security loops. Training and serving infra.<br/>
+  Product surfaces on top. <strong>You own the result.</strong>
 </p>
 
 ---
 
-### About
+## ⌘ Focus racks
 
-**MedMx Labs** is an applied AI and reinforcement learning lab.
-
-We build systems that improve with every episode: policies, agents, security loops, training and serving infra, and the product surfaces that sit on top. Same rigor for company teams and independent builders. You own the result.
-
-<p align="center"><a href="https://medmx.in"><strong>medmx.in →</strong></a> · <a href="mailto:support@medmx.in?subject=%5BMedMx%20Labs%5D%20Start%20a%20project"><strong>Start a project →</strong></a></p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://medmx.in/#services"><img src="./assets/card-rl.png" alt="Reinforcement Learning" width="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://medmx.in/#services"><img src="./assets/card-agents.png" alt="AI Automation & Agents" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://medmx.in/#services"><img src="./assets/card-security.png" alt="Cybersecurity RL" width="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://medmx.in/#services"><img src="./assets/card-infra.png" alt="AI Infra & MLOps" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://medmx.in/#services"><img src="./assets/card-web.png" alt="Websites & Apps" width="50%" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Focus
+## ⌁ The loop
 
-| Area | What that means |
-| :--- | :--- |
-| **Reinforcement learning systems** | Custom environments, reward design, trained policies for decisions that repeat |
-| **AI automation & agents** | Agents that take real actions across your tools, with humans in the loop where it matters |
-| **Cybersecurity RL** | Adversarial agents that probe networks the way attackers would, and defender policies that respond |
-| **AI infrastructure & MLOps** | GPU clusters, training pipelines, serving and monitoring sized to the workload |
-| **Websites & apps** | Product sites, dashboards and internal tools shipped alongside the AI work |
+<p align="center">
+  <img src="./assets/loop.png" alt="observe act reward improve loop" width="100%" />
+</p>
 
----
-
-### How we work
-
-```text
-observe  →  act  →  reward  →  improve
-  sₜ         aₜ        rₜ          π′
+```bash
+# how engagements actually run
+observe  # study data, workflows, constraints, what "good" means
+act      # ship a baseline you can use this week
+reward   # agree on measurable signals + instrument them
+improve  # iterate until the numbers move, then hand over
 ```
 
-1. **Observe** - study the environment: data, workflows, constraints, and what "good" actually means  
-2. **Act** - ship a first working baseline you can use  
-3. **Reward** - agree on measurable signals and instrument them  
-4. **Improve** - iterate until the numbers move, then hand over or keep tuning with you  
-
-**Principles:** measure first · ship early, then learn · you own the result · same rigor for teams and builders
+<p align="center"><code>measure first</code> · <code>ship early, then learn</code> · <code>you own the result</code> · <code>teams + builders</code></p>
 
 ---
 
-### Research threads
-
-- **Reward design** - turning messy business goals into signals that don't get gamed  
-- **Adversarial RL** - attackers and defenders that train each other  
-- **Sample efficiency** - model-based and offline methods so systems improve without risky live trial and error  
-
----
-
-### Contact
-
-| | |
-| :--- | :--- |
-| Site | [medmx.in](https://medmx.in) |
-| Mail | [support@medmx.in](mailto:support@medmx.in) |
-| Org | [github.com/MedMxLabs](https://github.com/MedMxLabs) |
-| Based in | India |
+## Ψ Research threads
 
 <p align="center">
-  <img src="./assets/medmx-mark.png" alt="MedMx mark" width="56" />
+  <img src="./assets/research.png" alt="reward design, adversarial RL, sample efficiency" width="100%" />
+</p>
+
+---
+
+## ✦ Plug in
+
+<p align="center">
+  <a href="mailto:support@medmx.in?subject=%5BMedMx%20Labs%5D%20Start%20a%20project"><img src="./assets/cta.png" alt="Start a project" width="100%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://medmx.in"><strong>medmx.in</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:support@medmx.in"><strong>support@medmx.in</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/MedMxLabs"><strong>@MedMxLabs</strong></a>
+  &nbsp;·&nbsp;
+  India
+</p>
+
+<p align="center">
+  <img src="./assets/medmx-mark.png" width="40" alt="MedMx" />
+</p>
+
+<p align="center">
+  <sub>backed by the loop. not the slide deck.</sub>
 </p>
